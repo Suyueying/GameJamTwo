@@ -1794,6 +1794,11 @@ PrefabInstance:
       propertyPath: doubleJumpForce
       value: 6
       objectReference: {fileID: 0}
+    - target: {fileID: 9186034035390513480, guid: a396ec2d737627245b7fcb801b69bf8b,
+        type: 3}
+      propertyPath: whatIsGround.m_Bits
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects:
     - {fileID: 7241004313125918067, guid: a396ec2d737627245b7fcb801b69bf8b, type: 3}
