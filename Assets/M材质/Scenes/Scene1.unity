@@ -1794,11 +1794,14 @@ PrefabInstance:
       propertyPath: doubleJumpForce
       value: 6
       objectReference: {fileID: 0}
+<<<<<<< HEAD:Assets/M材质/Scenes/Scene1.unity
     - target: {fileID: 9186034035390513480, guid: a396ec2d737627245b7fcb801b69bf8b,
         type: 3}
       propertyPath: whatIsGround.m_Bits
       value: 0
       objectReference: {fileID: 0}
+=======
+>>>>>>> 6c1d9e6ca0d5c9b042beaaaa0d6e0b6ed106bca9:Assets/Scenes/Scene1.unity
     m_RemovedComponents: []
     m_RemovedGameObjects:
     - {fileID: 7241004313125918067, guid: a396ec2d737627245b7fcb801b69bf8b, type: 3}
@@ -2010,6 +2013,14 @@ PrefabInstance:
       propertyPath: moveSpeed
       value: 3
       objectReference: {fileID: 0}
+<<<<<<< HEAD:Assets/M材质/Scenes/Scene1.unity
+=======
+    - target: {fileID: 8609874444774718162, guid: 8a78f242bedbd87488006aff890f07f0,
+        type: 3}
+      propertyPath: m_RendererIndex
+      value: -1
+      objectReference: {fileID: 0}
+>>>>>>> 6c1d9e6ca0d5c9b042beaaaa0d6e0b6ed106bca9:Assets/Scenes/Scene1.unity
     m_RemovedComponents:
     - {fileID: 7114092477709250665, guid: 8a78f242bedbd87488006aff890f07f0, type: 3}
     m_RemovedGameObjects:
