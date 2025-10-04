@@ -1,0 +1,6 @@
+Event	ID	Name			Wwise Object Path	Notes
+	1117531639	amb			\Default Work Unit\amb	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	318560954	xm3873	C:\Users\Desig\Documents\WwiseProjects\Test\.cache\E6\{E69CE103-67B9-C014-A26B-4401BBFBAAB2}.wem		\Actor-Mixer Hierarchy\Default Work Unit\xm3873		1622112
+
